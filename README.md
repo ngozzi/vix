@@ -5,8 +5,9 @@ We investigate also the role of Algorithmic Trading in a crisis situation: autom
 # Simulation 
 The code of the simulation is included in the "netlogo" folder and can be run within the [Netlogo](https://ccl.northwestern.edu/netlogo/) environment.
 Furthermore a simulation running online can be found at: https://terna.to.it/tesineEconofisica/Manipulation%20in%20a%20Simple%20Stock%20Market.html
+In the "notebooks" folder is included a brief visualization of results.
 
 # References
 - Griffin, John M. and Shams, Amin, Manipulation in the VIX? (May 23, 2017). Available at SSRN: https://ssrn.com/abstract=2972979 or http://dx.doi.org/10.2139/ssrn.2972979
 - Kirilenko, Andrei A. and Kyle, Albert S. and Samadi, Mehrdad and Tuzun, Tugkan, Automation, Intermediation and the Flash Crash (February 6, 2018). Journal of Investment Management, Forthcoming. Available at SSRN: https://ssrn.com/abstract=3119363 or http://dx.doi.org/10.2139/ssrn.3119363
-- P. Terna, Continuous double auction basic model (2018). Available at: http://terna.to.it/econophysics18/NetLogo_examples/CDA_basic_model.nlogo[1] 
+- P. Terna, Continuous double auction basic model (2018). Available at: http://terna.to.it/econophysics18/NetLogo_examples/CDA_basic_model.nlogo
