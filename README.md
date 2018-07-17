@@ -5,6 +5,7 @@ We investigate also the role of Algorithmic Trading in a crisis situation: autom
 # Simulation 
 The code of the simulation is included in the "netlogo" folder and can be run within the [Netlogo](https://ccl.northwestern.edu/netlogo/) environment.
 Furthermore a simulation running online can be found at: https://terna.to.it/tesineEconofisica/Manipulation%20in%20a%20Simple%20Stock%20Market.html
+
 In the "notebooks" folder is included a brief visualization of results.
 
 # References
